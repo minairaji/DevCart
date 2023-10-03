@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Devcard_MVC.ViewComponents
 {
-    public class LatestArticleViewComponent : ViewComponent
+     public class LatestArticleViewComponent : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
