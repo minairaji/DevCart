@@ -17,6 +17,10 @@ namespace Devcard_MVC.Controllers
         {
             return View();
         }
+        public IActionResult Contact()
+        {
+            return View();
+        }
 
         
 
